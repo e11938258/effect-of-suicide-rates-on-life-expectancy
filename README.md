@@ -28,8 +28,8 @@ $ pip install jupyterlab
 
 How to run experiment
 ```
-$ cd <PATH-TO-FILE-WITH-EXPERIMENT-FOLDER/effect-of-suicide-rates-on-life-expectancy
-$ jupyterlab
+$ cd <PATH-TO-FILE-WITH-EXPERIMENT-FOLDER>/effect-of-suicide-rates-on-life-expectancy
+$ jupyter-lab
 ```
 
 Go to the folder 20_Code, where is code for the experiment and run it.
